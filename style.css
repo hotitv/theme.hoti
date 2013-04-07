@@ -1,34 +1,12 @@
 /*
 Theme Name: Hotï Theme
-Theme URI: https://github.com/hotitv/hoti-theme
+Theme URI: http://hoti.tv
 Github Theme URI: https://github.com/hotitv/hoti-theme
 Description: Hotï Theme for WordPress is stylish, customizable, simple, and readable.
-Version: v1.0.4
+Version: v1.0.5
 Author: Marcos Colina
 Author URI: https://www.facebook.com/marcoscolinar
 Tags: hoti, 3 column theme, clean, portfolio
-*/
-
-/*
-    Hotï - Venezuela Artistic Material
-    Copyright (C) 2013 Marcos Colina
-	
-	Contributors
-		Marcos Colina <ceo@hoti.tv>
-		Alexander Salas <a.salas@ieee.org>
-	
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 /* =WordPress Core
 -------------------------------------------------------------- */
@@ -254,3 +232,25 @@ h1.single_title { margin: 0 0 15px; font-size: 0px; color: #fff; font-weight: 20
 	#footer { font-size: 12px; }	
 	
 }
+
+/*
+    Hotï - Venezuela Artistic Material
+    Copyright (C) 2013 Marcos Colina
+	
+	Contributors
+		Marcos Colina <ceo@hoti.tv>
+		Alexander Salas <a.salas@ieee.org>
+	
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

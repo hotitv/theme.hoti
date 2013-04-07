@@ -70,6 +70,12 @@
 
 </style>
 
+<?php }else{ ?>
+<style type="text/css">
+
+  body { background-image: url('<?php bloginfo('stylesheet_directory'); ?>/images/pattern.png'); }
+
+</style>
 <?php } ?>
 
  
@@ -86,7 +92,7 @@
 
 		<?php } else { ?>
 
-			<div class="text_center"><a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo.png" class="logo" alt="logo" /></a></div>
+			<div class="text_center"><a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo.svg" class="logo" alt="logo" /></a></div>
 
 		<?php } ?>		
 

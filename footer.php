@@ -64,9 +64,12 @@
 
 		</div>
 
-		<div class="right">© 2013 Hotï / Material Artistico Venezolano. <a href="http://www.hoti.tv">Reportar Problemas en Atención al cliente.</a></div>
+		<div class="right">© 2013 Hotï / Material Artistico Venezolano. <a href="http://goo.gl/xnTWq">Politica de Privacidad / </a>
+        <a href="http://goo.gl/jkNWT">Soporte / </a>
+        <a href="http://goo.gl/Rs3TX">Términos del Servicio / </a>
+        <a href="http://goo.gl/ACX81">Mercadeo</a></div>
 
-		<div class="clear"></div>
+        <div class="clear"></div>
 
 	</footer><!--//footer-->
 

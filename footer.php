@@ -1,4 +1,4 @@
-<?
+<?php
 /*
     Hotï - Venezuela Artistic Material
     Copyright (C) 2013 Marcos Colina

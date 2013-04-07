@@ -22,7 +22,7 @@
 	
 */
 ?>
-	<?php $shortname = "typographic"; ?>
+	<?php $shortname = "hoti"; ?>
 
 	<div class="clear"></div>
 

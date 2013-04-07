@@ -58,7 +58,7 @@
 
 <body <?php body_class(); ?>>
 
- <?php $shortname = "typographic"; ?>
+ <?php $shortname = "hoti"; ?>
 
  
 

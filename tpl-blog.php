@@ -37,7 +37,7 @@
 
 
 
-	<?php $shortname = "typographic"; ?>
+	<?php $shortname = "hoti"; ?>
 
 	
 

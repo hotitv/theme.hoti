@@ -23,9 +23,9 @@
 
 */
 
-$themename = "Typographic";
+$themename = "Hotï";
 
-$shortname = "typographic";
+$shortname = "hoti";
 
 
 
